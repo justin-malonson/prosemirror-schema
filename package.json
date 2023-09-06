@@ -1,5 +1,5 @@
 {
-  "name": "justin-malonson/prosemirror-schema",
+  "name": "prosemirror-schema",
   "version": "1.0.0",
   "description": "Schema setup for using prosemirror in hypelime. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
   "main": "src/index.js",
